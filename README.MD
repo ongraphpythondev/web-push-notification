@@ -1,5 +1,9 @@
 # WEB PUSH NOTIFICATIONS
 
+## Description
+
+Web push notifications allow users to opt-in to receive updates to mobile and web applications. And this application is helpful for django application to send push notifications from application. This application uses django-webpush package.
+
 ## Setup
 
 The first thing to do is to clone the repository:
