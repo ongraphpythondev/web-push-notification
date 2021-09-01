@@ -4,7 +4,7 @@ Setup
 
 The first thing to do is to clone the repository:
 
-$ git clone https://gitlab.com/devilinongraph/web-push-notification.git
+$ git clone https://github.com/ongraphpythondev/web-push-notification.git
 $ cd web-push-notification
 
 Create a virtual environment to install dependencies in and activate it (Windows Only):
